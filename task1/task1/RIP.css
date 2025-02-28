@@ -1,0 +1,25 @@
+.boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+@font-face {
+    font-family:"vazir";
+    src: url("./vazir-font-v16.1.0/Vazir-Medium.woff2");
+}
+.p2{
+    font-family: "vazir";
+    font-size: 20px;
+
+}
+.s2{
+    font-size: 100px;
+    color: darkslategrey;
+}
