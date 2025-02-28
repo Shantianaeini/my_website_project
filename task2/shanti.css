@@ -1,0 +1,41 @@
+@font-face {
+    font-family:"vazir" ;
+    src: url("./vazir-font-v16.1.0/Vazir-Medium.woff2");
+}
+
+
+
+.pic1{
+      
+    width:100px ;
+
+
+
+
+}
+.boxes{
+display: flex;
+flex-direction:row;
+justify-content:space-around;
+
+
+}
+.box{
+        display: flex;
+        flex-direction:column ;                 
+        justify-content: center;
+        align-items:center  ;
+
+ 
+
+
+
+}
+.p2{
+    width: 140px;
+}
+.p1{
+    font-family: "vazir";
+    font-size: large;
+}
+
