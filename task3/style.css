@@ -1,0 +1,82 @@
+@font-face {
+    font-family: Vazir;
+    src: url("./vazir-font-v16.1.0/Vazir-Medium.ttf");
+}
+
+@font-face {
+    font-family: Vazir-Thin;
+    src: url("./vazir-font-v16.1.0/Vazir-Thin.ttf");
+}
+
+@font-face {
+    font-family: Vazir-Bold;
+    src: url(./vazir-font-v16.1.0/Vazir-Bold.ttf);
+}
+
+
+
+body{
+    /* direction: rtl; */
+    font-family: Vazir;
+    /* height: 100vh; */
+}
+
+
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 0);
+}
+
+
+.text1{
+    background-color: blue;
+}
+
+.box3{
+    background-color: rgb(38, 255, 0);
+}
+
+.Link1{
+    display: block;
+    background-color: rgb(255, 0, 0);
+    width: 70%;
+    text-align: center;
+}
+
+.link2{
+    display: block;
+    background-color: rgb(50, 113, 39);
+    width: 100%;
+    text-align: center;
+}
+
+
+.link3{
+    /* display: block; */
+}
+
+
+.link4{
+    background-color: cadetblue;
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.btn{
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    color: white;
+    font-family: "vazir";
+}
