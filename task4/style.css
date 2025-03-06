@@ -1,0 +1,88 @@
+p{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 50px ;
+    @font-face {
+        font-family: vazir-thin;
+        src: url(vazir-thin.ttf);
+    }
+}
+body{
+     background-color: black; 
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color :rgb(255, 0, 0);
+    text-align: center;
+   
+    }
+
+
+label1
+{
+    width: 42px;
+    height:24px;
+    font-size: 34px;
+    background-color: rgb(98, 98, 98);
+    color: rgb(255, 13, 13);
+    text-align: center;
+    @font-face {
+        font-family: vazir ;
+        src: url("./vazir-font-v16.1.0/Vazir-Bold.ttf");}
+    
+}
+        
+label2{
+    width: 42px;
+    height:24px;
+    font-size: 34px;
+    background-color: rgb(98, 98, 98);
+    color: rgb(255, 13, 13);
+    text-align: center;
+}
+label3{
+    width: 42px;
+    height:24px;
+    font-size: 34px;
+    background-color: rgb(98, 98, 98);
+    color: rgb(255, 13, 13);
+    text-align: center;
+}
+input{
+   
+    
+    font-size: 23px;
+    background-color: rgb(98, 98, 98) ;
+    color: rgb(255, 0, 51) ;
+    text-align: center;
+}
+select{
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    
+
+}
+option{
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+}
+button{
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+}
+p{
+    width: 42px ;
+    height: 24px;
+    font-size: 34px; 
+    text-align: center;
+    color: darkred;
+}
+h1{
+    @font-face {
+        font-family: vazir;
+        src: url("./vazir-font-v16.1.0/Vazir-Bold.ttf");
+    }
+    direction: rtl ;
+}
