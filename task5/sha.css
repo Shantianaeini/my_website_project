@@ -1,0 +1,84 @@
+
+.p{
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+font-face {
+    font-family: vazir ;
+    src: url("./vazir-font-v16.1.0/Vazir-Bold.ttf");
+}
+.p2{
+    font-family: vazir ;
+    direction: rtl ;
+}
+body{
+    direction: rtl;
+    font-family: vazir;
+}
+.table1{
+    border: 1px solid chartreuse;
+    width: 100%;
+
+}
+.table1 tr,td{
+   border: 1px solid cyan;
+   text-align: center;
+   padding-top: 10px;
+   padding-bottom: 20px;   ;
+} 
+.table1 th{
+    border: 1px solid crimson;
+}
+.box1{
+    background-color: chartreuse;
+    
+}
+.text{
+    background-color: rgb(255, 255, 0);
+}
+.link1{
+background-color: forestgreen;
+display: block;
+}
+.link2{
+    background-color: darkolivegreen;
+    display: block;
+}
+.link3{
+    background-color: lime;
+    display: block;
+}
+.table3{
+    border: 20px solid yellow;
+    width: 100%;
+    text-decoration: none;
+}
+.table3 tr{
+border: solid blueviolet;
+text-align: center;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-top: 10px;
+padding-right: 10px;
+}
+.table3 th td{
+border: solid blueviolet;
+text-align: center;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-top: 10px;
+padding-right: 10px;
+}
+
+.btn{
+    outline: none;
+    color: darkslategray;
+    background-color: darkkhaki;
+    border: none;
+    padding: 35px ;
+    border-radius: 50px;
+}
+/* .link4{
+    text-decoration: none;
+} */
